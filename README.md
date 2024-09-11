@@ -1,1 +1,1 @@
-# library-front
+AFC Book front end project
